@@ -1,6 +1,6 @@
 # AdventureWorks PowerBI Dashboard
 
-<img src="images/AdventureWorks_page-0001.png">
+<img src="images/AdventureWorks_page-0001.jpg">
 
 # 1. Overview
 
@@ -137,6 +137,7 @@ WHERE
 ```
 
 After this we can see our views are created in View Tab:
+
 <img src="images/views.png">
 
 # 4. Import Data in Power BI
@@ -149,7 +150,6 @@ Now that we have our data, we can connect the SQL server in power Bi:
 And then select the views we created:
 
 <img src="images/load-views.png">
-
 
 ## 4.1 Adding Continent column
 
