@@ -3,6 +3,7 @@
 <img src="images/AdventureWorks_page-0001.jpg">
 
 # 1. Overview
+Link for Online Dashboard: [Sales Overview](https://app.powerbi.com/view?r=eyJrIjoiMzUyMjdjMTUtNzg1Yy00NTdkLWJhOTYtYmY0ZGY0NjFiMDFjIiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9)
 
 The primary goal of this project is to create and publish an interactive Power BI dashboard using the Adventure Works dataset. This dataset, provided by Microsoft, serves as a perfect playground to practice and showcase proficiency in SQL, Microsoft SQL Server, and Power BI.
 
