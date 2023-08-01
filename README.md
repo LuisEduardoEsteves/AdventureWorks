@@ -136,7 +136,9 @@ WHERE
   DateKey BETWEEN '20200101' AND '20221212'
 ```
 
+
 After this we can see our views are created in View Tab:
+
 
 <img src="images/views.png">
 
@@ -144,7 +146,7 @@ After this we can see our views are created in View Tab:
 
 Now that we have our data, we can connect the SQL server in power Bi: 
 
-<img src="images/localhost.png">
+<img src="images/localhost-print.png">
 
 
 And then select the views we created:
