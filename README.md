@@ -180,7 +180,7 @@ You can see that all the dimensions are linked to the facts table in a 1 to many
 
 In this section I’ll dissect the layout of the Dashboard that is hosted in microsft server, and can be acessed by this link: [Sales Overview](https://app.powerbi.com/view?r=eyJrIjoiMzUyMjdjMTUtNzg1Yy00NTdkLWJhOTYtYmY0ZGY0NjFiMDFjIiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9)
 
-<img src="images/get-data-web.png">
+<img src="images/PWBI-print.png">
 
 
 ## 6.1 KPI Tooltip:
