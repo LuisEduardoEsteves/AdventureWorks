@@ -1,6 +1,7 @@
 # AdventureWorks PowerBI Dashboard
+<iframe title="AdventureWorks" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzUyMjdjMTUtNzg1Yy00NTdkLWJhOTYtYmY0ZGY0NjFiMDFjIiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-<img src="images/AdventureWorks_page-0001.jpg">
+<!-- <img src="images/AdventureWorks_page-0001.jpg">  -->
 
 # 1. Overview
 Link for Online Dashboard: [Sales Overview](https://app.powerbi.com/view?r=eyJrIjoiMzUyMjdjMTUtNzg1Yy00NTdkLWJhOTYtYmY0ZGY0NjFiMDFjIiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9)
